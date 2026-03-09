@@ -1,3 +1,20 @@
+@font-face {
+  font-family: "icomoon";
+  src:
+    url("../../../fonts/icomoon.eot"),
+    url("../../../fonts/icomoon.eot") format("embedded-opentype"),
+    url("../../../fonts/icomoon.ttf") format("truetype"),
+    url("../../../fonts/icomoon.woff") format("woff"),
+    url("../../../fonts/icomoon.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+* {
+  font-family: "icomoon";
+}
+
 h3 {
   margin: 40px 0 0;
 }
